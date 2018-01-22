@@ -18,7 +18,7 @@ tali src/index.js
 
 The port for the server can be controlled through the environment value `PORT`.
 
-Tali also includes sourcemaps and is based on this [configuation](https://github.com/remy/tali/blob/master/lib/webpack.config.js)
+Tali also includes sourcemaps and is based on this [configuration](https://github.com/remy/tali/blob/master/lib/webpack.config.js).
 
 
 ## License
