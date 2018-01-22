@@ -12,8 +12,9 @@ Tali is a [node](https://nodejs.com) utility and requires npm to install:
 npm install -g tali
 
 # from your project directory
+
 tali src/index.js
-> Waiting at http://localhost:3000/lib/index.js
+> Waiting at http://localhost:3000/src/index.js
 ```
 
 The port for the server can be controlled through the environment value `PORT`.
